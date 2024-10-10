@@ -8,7 +8,7 @@
 💬 Feel free to reach out to me for any web Development.  
 📨 You can contact me via email at rusama861@gmail.com! I'll get back to you as soon as possible.  
 <hr>
-## ⚡ Tech Stack
+ ⚡ Tech Stack
 <hr>
 
 <div align="left">
@@ -65,15 +65,11 @@ Muhammad Usama's GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhasajid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&langs=JavaScript,React,Next.js,Vue.js,Node.js" height="150" alt="languages graph" />
-
-
-
 </div>
+  
+<hr>
 
-
-###
-
-
+<div align="left">
 📨 Get in Touch
 <hr>
 <div align="left">
@@ -83,17 +79,14 @@ Muhammad Usama's GitHub Stats
 <a href="https://join.skype.com/invite/jBFQaVQ0ZfTS" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Skype&logo=skype&label=&color=00AFF0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="skype logo" />
 </a>
-
 <a href="https://discord.com/users/muhammadusamaiqabal" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
-
-
 <a href="https://www.linkedin.com/in/muhammad-usama-iqbal1/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-
-
 </div>
+</div>
+
 
 
